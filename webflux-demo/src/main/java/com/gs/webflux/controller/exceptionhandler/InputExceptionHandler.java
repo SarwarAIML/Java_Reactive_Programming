@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import reactor.util.retry.Retry;
 
 @ControllerAdvice
-
 public class InputExceptionHandler {
     @ExceptionHandler(InputValidationException.class)
 
@@ -18,7 +17,6 @@ public class InputExceptionHandler {
         response.setInput(exception.getInput());
         response.setErrorMessage(exception.getMessage());
         return ResponseEntity.badRequest().body(response);
-
     }
 
 
