@@ -30,3 +30,13 @@ git hub references
 https://github.com/cemserit/spring-data-examples
 https://github.com/in28minutes/spring-master-class/tree/master
 https://gist.github.com/YakDriver/95f7d165ff5030c000a813d974a170dc
+
+map struct references
+====================
+https://www.baeldung.com/mapstruct-ignore-unmapped-properties
+https://jpa-buddy.com/guides/use-dtos-and-mapstruct-mappers/
+https://medium.com/@susantamon/mapstruct-a-comprehensive-guide-in-spring-boot-context-1e7202da033e
+
+
+https://www.baeldung.com/java-mapstruct-lombok-integration
+https://mapstruct.org/
