@@ -1,0 +1,41 @@
+
+
+Question 1. 
+Given a truth table, design a perceptron and find the weights and threshold of the perceptron
+X1       	X2         Y
+0          	0          1
+1           0          0
+0          	1          0
+1           1          0
+
+
+
+Question 2.
+
+Construct an MLP for the given boolean expression. What is the depth and width of the MLP? 
+
+A    B    C    D     Y
+1    0    1    0     1
+1    1    1    0     1
+1    0    0    1     1
+1    0    1    1     1
+1    0    0    0     1
+
+Question 3. 
+Find the number of layers and number of perceptrons required for an MLP that can be used for computing the XOR of 6 parameters. Draw the MLP network. If a single hidden layer is used, how many perceptions will be required?
+
+Question 4. 
+Derive the equation for the derivative of binary cross entropy loss L with respect to the weight assuming activation  a = σ (Z) and the loss L is computed from this activation A.
+
+
+Question 5. 
+Draw the computational graph for the equation f = relu(ax+by+c). Show the computation of derivatives of f wrt a, b, c in the graph. Using the graph, compute the value of f and  derivatives if a = 3, b=2, c= (-5),  z = 2 and y = 3.
+
+Question 6.                                                                                                                                                                 
+Given an error surface,
+E(p,q,r)=3p²+3g²+4r+5
+compute the optimal value of learning rate that will minimize the error surface, the largest learning rate for convergence and smallest learning rate for divergence.
+
+
+
+
